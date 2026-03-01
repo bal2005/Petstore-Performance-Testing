@@ -1,0 +1,6 @@
+username,password,firstname,lastname,email,phone,address1,address2,city,state,zip,country
+user9987,Pass124,John,Doe,john1@mail.com,9876543210,Street1,Street2,Chennai,TN,600001,India
+user9986,Pass124,Alex,Doe,john1@mail.com,9876543210,Street1,Street2,Chennai,TN,600001,India
+user9985,Pass124,Bob,Doe,john1@mail.com,9876543210,Street1,Street2,Chennai,TN,600001,India
+user9984,Pass124,Frank,Doe,john1@mail.com,9876543210,Street1,Street2,Chennai,TN,600001,India
+user9983,Pass124,Anne,Doe,john1@mail.com,9876543210,Street1,Street2,Chennai,TN,600001,India
