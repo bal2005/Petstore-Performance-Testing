@@ -1,6 +1,6 @@
-# 🧪 PetStore Performance Testing using Apache JMeter
+#  PetStore Performance Testing using Apache JMeter
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates performance testing of the PetStore web application using **Apache JMeter**.
 
@@ -13,7 +13,7 @@ The test includes parameterization, correlation, assertions, and structured exec
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Validate the Registration and Login workflow under load
 - Ensure dynamic values are properly handled using correlation
@@ -23,7 +23,7 @@ The test includes parameterization, correlation, assertions, and structured exec
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Apache JMeter
 - CSV Data Set Config (for parameterization)
@@ -33,7 +33,7 @@ The test includes parameterization, correlation, assertions, and structured exec
 
 ---
 
-## 🔁 Test Scenario (User Flow)
+##  Test Scenario (User Flow)
 
 Each virtual user performs the following steps:
 
@@ -47,7 +47,7 @@ Each virtual user performs the following steps:
 
 ---
 
-## ⚙️ Test Configuration
+##  Test Configuration
 
 | Parameter        | Value        |
 |------------------|-------------|
@@ -57,7 +57,7 @@ Each virtual user performs the following steps:
 | Protocol         | HTTPS       |
 
 ---
-## 🔗 Correlation
+##  Correlation
 
 During recording, the application generated dynamic hidden fields:
 
